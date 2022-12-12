@@ -4,4 +4,4 @@ const mySkills = [
     {skill: JQuery learned: true}
     {skill: CSS learned: true}
     {skill: Express learned: false}
-]
+];
